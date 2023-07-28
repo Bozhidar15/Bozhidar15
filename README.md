@@ -2,6 +2,14 @@
 - 👀 I’m interested in most of the sports, travelling and studying something new.
 - 🌱 I’m currently learning Java, C++, linux.-->
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bozhidar15.Bozhidar15">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bozhidar+Abadzhiev....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Java-IntelliJ-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/C++-VS-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
