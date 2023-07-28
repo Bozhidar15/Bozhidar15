@@ -1,12 +1,8 @@
-<!-- 👋 Hi, my name is Bozhidar and I'm studying Software Engineering in Sofia University St. Kliment Ohridski. 
-- 👀 I’m interested in most of the sports, travelling and studying something new.
-- 🌱 I’m currently learning Java, C++, linux.-->
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bozhidar15">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bozhidar15.Bozhidar15">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bozhidar+Abadzhiev....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B....;I%27m+Bozhidar+Abadzhiev..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
