@@ -2,7 +2,7 @@
 - 👀 I’m interested in most of the sports, travelling and studying something new.
 - 🌱 I’m currently learning Java, C++, linux.-->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bozhidar15.Bozhidar15">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bozhidar15">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
