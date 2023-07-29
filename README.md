@@ -44,9 +44,9 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
   
-<!--![snake gif](https://github.com/Bozhidar15/Bozhidar15/blob/output/github-contribution-grid-snake.gif) -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-<hr>
+![snake gif](https://github.com/Bozhidar15/Bozhidar15/blob/output/github-contribution-grid-snake.gif) 
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<hr> -->
 
 ## 🤯 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=catppuccin_<variant>)
