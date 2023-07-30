@@ -33,7 +33,9 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
   
-<!--![snake gif](https://github.com/Bozhidar15/Bozhidar15/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![snake gif](https://github.com/Bozhidar15/Bozhidar15/blob/output/github-contribution-grid-snake.gif) 
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+-->
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 <hr>
 
