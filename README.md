@@ -18,8 +18,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align=center>&nbsp;<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=bozhidar15&theme=react&border=61dafb&hide_border=true&show_icons=true&locale=en" alt="bozhidar15" />
-<img align="center" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=bozhidar15&theme=react&border=61dafb&hide_border=true" alt="bozhidar15" />
+<p align=center>&nbsp;
+  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=bozhidar15&theme=react&border=61dafb&hide_border=true&show_icons=true&locale=en" alt="bozhidar15" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bozhidar15&" alt="bozhidar15" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bozhidar15&show_icons=true&locale=en&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="bozhidar15" />
 
 </p>
